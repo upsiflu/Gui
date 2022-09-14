@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "elm-watch": "^1.0.2"
+  },
+  "dependencies": {
+    "esbuild": "^0.15.7",
+    "uglify-js": "^3.17.0"
+  }
+}
